@@ -5,3 +5,6 @@ Building a detection model using a convolutional neural network in Tensorflow & 
 
 Brain MRI images data founded on Kaggle.
 You can find it : https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+it contains 2 folders : yes
+                        No
+                        
